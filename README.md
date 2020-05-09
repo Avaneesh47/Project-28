@@ -1,6 +1,5 @@
-C27 Project
+C28-Project
 
-output link:
+Output link:
 
-
-https://avaneesh47.github.io/C27-Project/
+https://avaneesh47.github.io/Project-28/
